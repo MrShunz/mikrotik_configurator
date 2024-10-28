@@ -1,1 +1,15 @@
 /.idea/
+
+*~
+
+.swp
+.swo
+
+.env
+.orig
+.DS_Store
+
+.venv/
+.vscode/
+
+__pycache__
